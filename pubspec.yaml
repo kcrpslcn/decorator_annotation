@@ -1,0 +1,7 @@
+name: decorator_annotation
+version: 0.1.0
+description: >-
+  Annotations for the `decorator_gen` package.
+repository: https://github.com/kcrpslcn/decorator_annotation
+environment:
+  sdk: ^3.0.0
