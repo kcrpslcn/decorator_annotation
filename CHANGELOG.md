@@ -1,3 +1,6 @@
+## 0.5.0
+- Update version to be in sync with `decorator_gen`
+
 ## 0.3.0
 - Added annotation-level forwarding support
 
